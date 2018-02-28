@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+ #topSectionTitle {
+   font-family: Verdana;
+   font-weight: normal;
+   color: white;
+   text-align: center;
+   font-size: 50px;
+ }
+
+#topSectionLink {
+  color: aquamarine;
+  font-family: Verdana;
+  font-size: 16px;
+  text-align: center;
+}
+
+#stockVideo{
+  text-align: center;
+}
+
+#middleSectionTitle{
+  font-size: 42px;
+  font-family: Verdana;
+  font-weight: 300;
+  text-align: center;
+  color: white;
+}
+
+#middleSectionParagraph{
+  color: gray;
+  font-family: Verdana;
+  font-style: 21px;
+  text-align: center;
+}
+
+#middleSectionImage{
+  text-align: center;
+}
+
+#bottomSectionImage{
+  text-align: center;
+}
+
+#bottomSectionTitle{
+  color: aquamarine;
+  font-family: Verdana;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+#footer{
+  text-align: right;
+  color: white;
+  font-family: Verdana;
+}
